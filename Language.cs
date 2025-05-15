@@ -12,17 +12,7 @@ public class Language : MonoBehaviour
 
         CheckCurrentLanguage();
     }
-   
-    public void CheckCurrentLanguage(){
-        for(int i=0;i<flags.Length;i++){
-            if(PlayerPrefs.GetInt("language",0)==i){
-                flags[i].color = Color.white;
-            }
-            else{
-                flags[i].color = Color.gray;
-            }
-        }
-    }
+    
     public void NewLanguage(int lan){
         menu.switchLang(lan);
         CheckCurrentLanguage();
