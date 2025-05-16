@@ -132,7 +132,7 @@ Players join a virtual table where they are randomly assigned roles as either Ma
 ## Installation & Setup
 
 ### Clone the Repository: Clone the repository from GitHub:
-- git clone https://github.com/StickmanMafia/StickmanMafiaOnline.git
+- git clone https://github.com/StickmanMafia/MafiaOnline.git
 - Unity Setup: Ensure you have Unity 2021.3 or later installed. Open the project in Unity Hub.
 - Dependencies: Install the required dependencies using Unity's Package Manager, including Web3 libraries and Solana SDK.
 - Build & Run: Once setup is complete, build the game for Android using Unity's build options.
@@ -214,7 +214,7 @@ Follow the bot's instructions to start playing.
 
 # License
 
-This project is licensed under a proprietary license - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under a proprietary license - see the [LICENSE](LICENSE) file for details.
 
 We are always looking for collaborators to join our journey. Whether you’re a developer, gamer, or blockchain enthusiast, Stickman Mafia Online offers something for everyone. Dive into our virtual table, and let’s build the future of decentralized gaming together!
 
