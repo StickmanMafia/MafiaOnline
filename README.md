@@ -15,7 +15,7 @@
 Welcome to Mafia Online - the full name of the game is Stickman Mafia Online. Mafia Online a blockchain-integrated social deduction game built on Unity and powered by Solana. Stickman Mafia brings the classic Mafia gameplay to the digital world, allowing players to strategize, deceive, and collaborate in a virtual setting. Our mission is to provide a seamless and engaging Mafia experience that connects traditional game mechanics with the power of blockchain technology, offering unique rewards and opportunities for all players.
 
 <p align="center" style="box-shadow: 4px 4px;">
-      <a href="https://stickman-mafia.online/">
+      <a href="https://stickmanmafia.com/">
             <img
                 src="https://i.ibb.co/Kj8Zcy4/Mafia-Screen6-1500x500.jpg"
                 alt="144796728"
@@ -26,7 +26,7 @@ Welcome to Mafia Online - the full name of the game is Stickman Mafia Online. Ma
 
 ## Game Features
 
-- **Classic Mafia Gameplay:** Play the well-known game of Mafia in an immersive digital environment. Engage in rounds of deception, discussions, and vote-based eliminations as either a member of the Mafia or an innocent Townsperson.
+- **Classic Mafia Gameplay** Play the well-known game of Mafia in an immersive digital environment. Engage in rounds of deception, discussions, and vote-based eliminations as either a member of the Mafia or an innocent Townsperson.
 - **Blockchain Integration:** Powered by the Solana blockchain, enjoy a unique gaming economy that rewards players for achievements and contributions to the game’s ecosystem.
 - **Play-to-Earn Mechanics:** Win rounds, complete challenges, and participate in tournaments to earn cryptocurrency rewards, emphasizing both skill and social strategy.
 - **NFT Assets:** Players can earn, trade, and collect in-game NFTs, including exclusive character skins and accessories that enhance the visual experience.
@@ -35,10 +35,10 @@ Welcome to Mafia Online - the full name of the game is Stickman Mafia Online. Ma
 - **Multiplayer Social Experience:** Engage with other players through in-game chat, discussions, and decision-making processes, bringing the social aspect of Mafia to life.
 - **Unique Perks:** Use special abilities to gain an advantage and change the course of the game.
 
-## Perks — Your Secret Advantages
+## Perks: Your Secret Advantages
 
 <p align="center" style="box-shadow: 4px 4px;">
-      <a href="https://stickman-mafia.online/">
+      <a href="https://stickmanmafia.com/">
             <img
                 src="https://i.ibb.co/T2ZhGYf/Mafia-Screen-4-USA.jpg"
                 alt="144796728"
@@ -49,22 +49,22 @@ Welcome to Mafia Online - the full name of the game is Stickman Mafia Online. Ma
 
 Perks are special abilities that can be used during the game. They are available for purchase with in-game coins.
 
-- **100 coins — Active Role** - Receive a random active role.
-- **200 coins — Walkie-Talkie** - For citizens: shows whom the mafia plans to kill at night. For mafia/maniac: allows you to hide from the "Wiretapping" perk.
-- **200 coins — Lie Detector** - Reveals the role of a selected player if they are actively participating in discussions. The result is sent via private message.
-- **300 coins — Wiretapping** - Allows you to find out if a selected player made a move during the night. The result is sent to your private chat.
-- **400 coins — Revenge** - Paralyzes for one day the player who voted against you.
-- **500 coins — Double Vote** - Doubles your vote in the next voting round.
-- **500 coins — Helicopter** - Saves you from being sent to jail during voting.
-- **500 coins — Mine Detector** - Protects you from the "Mine" perk if you voted against its owner.
-- **800 coins — Mine** - Kills a player who voted against you.
-- **800 coins — Camouflage** - Hides you from night killings or commissioner checks.
-- **1000 coins — Fake Passport** - The commissioner's check will show that you are a citizen, even if you are mafia or a maniac.
-- **1500 coins — Katana** - Kills the player next to you.
-- **2000 coins — Bulletproof** - Vest Saves you from a pistol and katana attack but not from a sniper or killer.
-- **3000 coins — Pistol** - Kills any selected player.
-- **3500 coins — Killer** - Kills any player, even one wearing a bulletproof vest. Available only player dead.
-- **4000 coins — Sniper** - Kills any player, even one wearing a bulletproof vest. Available only when alive.
+- **100 coins - Active Role** - Receive a random active role.
+- **200 coins - Walkie-Talkie** - For citizens: shows whom the mafia plans to kill at night. For mafia/maniac: allows you to hide from the "Wiretapping" perk.
+- **200 coins - Lie Detector** - Reveals the role of a selected player if they are actively participating in discussions. The result is sent via private message.
+- **300 coins - Wiretapping** - Allows you to find out if a selected player made a move during the night. The result is sent to your private chat.
+- **400 coins - Revenge** - Paralyzes for one day the player who voted against you.
+- **500 coins - Double Vote** - Doubles your vote in the next voting round.
+- **500 coins - Helicopter** - Saves you from being sent to jail during voting.
+- **500 coins - Mine Detector** - Protects you from the "Mine" perk if you voted against its owner.
+- **800 coins - Mine** - Kills a player who voted against you.
+- **800 coins - Camouflage** - Hides you from night killings or commissioner checks.
+- **1000 coins - Fake Passport** - The commissioner's check will show that you are a citizen, even if you are mafia or a maniac.
+- **1500 coins - Katana** - Kills the player next to you.
+- **2000 coins - Bulletproof** - Vest Saves you from a pistol and katana attack but not from a sniper or killer.
+- **3000 coins - Pistol** - Kills any selected player.
+- **3500 coins - Killer** - Kills any player, even one wearing a bulletproof vest. Available only player dead.
+- **4000 coins - Sniper** - Kills any player, even one wearing a bulletproof vest. Available only when alive.
 
 ## Solana Program: Multiplayer Mafia
 
@@ -78,7 +78,7 @@ This Solana program manages a multiplayer game where four players deposit funds 
 ## Gameplay
 
 <p align="center" style="box-shadow: 4px 4px;">
-      <a href="https://stickman-mafia.online/">
+      <a href="https://stickmanmafia.com/">
             <img
                 src="https://i.ibb.co/HpbrNCZ/Mafia-Screen-3-USA.jpg"
                 alt="144796728"
@@ -91,11 +91,11 @@ Players join a virtual table where they are randomly assigned roles as either Ma
 
 ## How to Earn:
 
-- ** Earn coins for successful games and completed tasks.
-- ** Log into the game every day to receive additional rewards.
-- ** Join special events and tournaments to earn rare rewards.
-- ** Buy and sell NFTs on the in-game marketplace.
-- ** Place bets with other players; the winning team shares the pot.
+- Earn coins for successful games and completed tasks.
+- Log into the game every day to receive additional rewards.
+- Join special events and tournaments to earn rare rewards.
+- Buy and sell NFTs on the in-game marketplace.
+- Place bets with other players; the winning team shares the pot.
 
 ## Highlights:
 
