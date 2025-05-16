@@ -1,9 +1,9 @@
 # Mafia Online
 
 <p align="center" style="box-shadow: 4px 4px;">
-      <a href="[https://stickman-mafia.online/](https://stickmanmafia.com/)">
+      <a href="https://stickmanmafia.com/">
             <img
-                src=[https://i.ibb.co/3YBYDckz/Logo-Mafia-Online.jpg](https://i.ibb.co/3YBYDckz/Logo-Mafia-Online.jpg)"
+                src="https://i.ibb.co/3YBYDckz/Logo-Mafia-Online.jpg"
                 alt="144796728"
                 width="300px"
               />
